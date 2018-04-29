@@ -1,0 +1,301 @@
+No,row,col,value
+1,1,1,1
+2,1,2,The Honest Company
+3,1,3,"Dietary Supplements, E-Commerce, Lifestyle"
+4,1,4,"Santa Monica, California, United States"
+5,1,5,"The Honest Company creates effective, safe, eco-friendly, beautiful, convenient, and affordable products for babies and homes."
+6,1,6,"1,046"
+7,2,1,2
+8,2,2,Ancient Nutrition
+9,2,3,"Dietary Supplements, Nutrition, Personal Health"
+10,2,4,"North Palm Beach, Florida, United States"
+11,2,5,"Our mission is to restore our health, strength and vitality by providing history’s healthiest whole food nutrients to the modern world."
+12,2,6,"1,904"
+13,3,1,3
+14,3,2,HVMN
+15,3,3,"Dietary Supplements, E-Commerce, Nutrition"
+16,3,4,"San Francisco, California, United States"
+17,3,5,Nootrobox is an e-commerce startup offering nootropics or cognitive supplements.
+18,3,6,"4,077"
+19,4,1,4
+20,4,2,Bulletproof
+21,4,3,"Consumer Goods, Dietary Supplements, Food and Beverage, Hospitality"
+22,4,4,"Bellevue, Washington, United States"
+23,4,5,"Bulletproof offers products to help people to reach a state of high performance and achieve their full protential, mentally and physically."
+24,4,6,"4,176"
+25,5,1,5
+26,5,2,Vitagene
+27,5,3,"Data Mining, Dietary Supplements, Health Care, Machine Learning, Personal Health, Personalization, Wellness"
+28,5,4,"San Francisco, California, United States"
+29,5,5,The world's First and Only Personalization Platform for Health and Wellness Products and Services Tailored to Your DNA and Lifestyle.
+30,5,6,"6,991"
+31,6,1,6
+32,6,2,PanTheryx
+33,6,3,"Dietary Supplements, Medical, Nutrition, Pharmaceutical"
+34,6,4,"Boulder, Colorado, United States"
+35,6,5,"PanTheryx is focused on the research, development, and commercialization of products that promote intestinal health."
+36,6,6,"10,199"
+37,7,1,7
+38,7,2,True Elements
+39,7,3,"Dietary Supplements, Food and Beverage, Health Care, Organic Food, Snack Food"
+40,7,4,"Pune, Maharashtra, India"
+41,7,5,True elements offers a range of high-quality snacks and supplements that are inspired by natural foods consumed by our ancestors.
+42,7,6,"10,419"
+43,8,1,8
+44,8,2,Simris Alg
+45,8,3,"Agriculture, Biotechnology, Consumer Goods, Dietary Supplements, FMCG, Lifestyle, Nutrition, Organic Food, Sustainability"
+46,8,4,"Hammenhög, Skane Lan, Sweden"
+47,8,5,Simris Alg is a company providing products from farmed algae.
+48,8,6,"10,915"
+49,9,1,9
+50,9,2,ChromaDex
+51,9,3,"Biotechnology, Chemical, Consulting, Dietary Supplements"
+52,9,4,"Irvine, California, United States"
+53,9,5,"ChromaDex is a natural products company that discovers, acquires, develops and commercializes proprietary-based ingredient technologies."
+54,9,6,"12,294"
+55,10,1,10
+56,10,2,The Nue Co.
+57,10,3,"Dietary Supplements, Food and Beverage, Organic Food"
+58,10,4,"New York, New York, United States"
+59,10,5,The Nue Co. deliver supplements made from foods.
+60,10,6,"14,184"
+61,11,1,11
+62,11,2,Cara
+63,11,3,"Alternative Medicine, Dietary Supplements, Health Care, Health Diagnostics, Medical"
+64,11,4,"Berlin, Berlin, Germany"
+65,11,5,Cara by HiDoc Technologies is an pharmaceutical company that empowers patients suffering from chronic digestive diseases.
+66,11,6,"14,490"
+67,12,1,12
+68,12,2,DogSpot
+69,12,3,"Dietary Supplements, Internet of Things, Online Forums"
+70,12,4,"Gurgaon, Haryana, India"
+71,12,5,"DogSpot is an online community for dog owners to interact and buy pets, supplies, and merchandise."
+72,12,6,"17,380"
+73,13,1,13
+74,13,2,GovDelivery
+75,13,3,"Dietary Supplements, Email, Enterprise Software, GovTech, SaaS"
+76,13,4,"Saint Paul, Minnesota, United States"
+77,13,5,GovDelivery enables public sector organizations to connect with more people and to get those people to take action.
+78,13,6,"18,985"
+79,14,1,14
+80,14,2,ISOThrive
+81,14,3,"Dietary Supplements, Health Care, Nutrition"
+82,14,4,"Healdsburg, California, United States"
+83,14,5,ISOThrive is a nutritional supplement specifically designed to feed the microbiome to enable optimum human health.
+84,14,6,"21,106"
+85,15,1,15
+86,15,2,Gainful
+87,15,3,"Dietary Supplements, Fitness, Personal Health"
+88,15,4,"Newbury Park, California, United States"
+89,15,5,Gainful makes personalized protein shakes.
+90,15,6,"21,806"
+91,16,1,16
+92,16,2,Eli Nutrition
+93,16,3,"Dietary Supplements, Health Care"
+94,16,4,"New Haven, Connecticut, United States"
+95,16,5,"Eli Nutrition, Inc. develops an antacid called Tummyzen, which is a zinc-based over-the-counter acid reducer. The company was incorporated"
+96,16,6,"24,160"
+97,17,1,17
+98,17,2,Candidlab
+99,17,3,"Dietary Supplements, Fitness, Life Science, Personal Health"
+100,17,4,"Copenhagen, Hovedstaden, Denmark"
+101,17,5,Our vision is to increase transparency in the supplement industry. Candidlab creates evidence-based algorithms and supplement rankings.
+102,17,6,"25,221"
+103,18,1,18
+104,18,2,Solix Algredients
+105,18,3,"B2B, Dietary Supplements, Nutraceutical"
+106,18,4,"Fort Collins, Colorado, United States"
+107,18,5,"Solix Algredients is a B2B supplier of algae-based, natural ingredients that benefit health-conscious consumers"
+108,18,6,"25,841"
+109,19,1,19
+110,19,2,Zenamins
+111,19,3,"Dietary Supplements, Medical, Wellness"
+112,19,4,"San Francisco, California, United States"
+113,19,5,zenamins is a subscription service that home delivers a monthly box of preferred vitamins to its subscribers.
+114,19,6,"28,800"
+115,20,1,20
+116,20,2,Güdpod
+117,20,3,"Dietary Supplements, Health Care, Internet of Things, Nutrition"
+118,20,4,"New York, New York, United States"
+119,20,5,Internet connected appliance like a keurig/nespresso for simplifying the consumption and management of nutritional supplemention
+120,20,6,"30,567"
+121,21,1,21
+122,21,2,Tewarie Enterprises
+123,21,3,"Dietary Supplements, Fitness, Health Care, Personal Health, Retail Technology"
+124,21,4,"Boston, Massachusetts, United States"
+125,21,5,Investment fund for high-growth startups within retail distribution.
+126,21,6,"30,624"
+127,22,1,22
+128,22,2,MSI Methylation Sciences
+129,22,3,"Biotechnology, Dietary Supplements, Medical, Therapeutics"
+130,22,4,"Burnaby, British Columbia, Canada"
+131,22,5,"MSI Methylation Sciences is a biotechnology company that develops and markets S-Adenosyl Methionine, a dietary supplement."
+132,22,6,"31,281"
+133,23,1,23
+134,23,2,LAFASO
+135,23,3,"Dietary Supplements, E-Commerce, Shopping, Women's"
+136,23,4,"Beijing, Beijing, China"
+137,23,5,Lefeng is a Chinese large-scale online shopping website that provides solutions related to female fashion.
+138,23,6,"31,672"
+139,24,1,24
+140,24,2,Avantha
+141,24,3,"Dietary Supplements, Manufacturing, Printing"
+142,24,4,"New Delhi, Delhi, India"
+143,24,5,"Avantha is engaged in the production of writing and printing papers, management of electrical energy and electrical products, and more."
+144,24,6,"33,492"
+145,25,1,25
+146,25,2,AddSearch
+147,25,3,"Dietary Supplements, Search Engine"
+148,25,4,"Helsinki, Southern Finland, Finland"
+149,25,5,Prevention Pharmaceuticals is a consumer health marketing frim focused on non-prescription dietary supplements and nutraceutical products.
+150,25,6,"33,868"
+151,26,1,26
+152,26,2,Isagenix International
+153,26,3,"Dietary Supplements, Multi-level Marketing, Nutrition"
+154,26,4,"Gilbert, Arizona, United States"
+155,26,5,Isagenix International LLC is a multilevel marketing company that markets dietary supplements and personal care products.
+156,26,6,"34,207"
+157,27,1,27
+158,27,2,AdEx Media
+159,27,3,"Advertising, Dietary Supplements"
+160,27,4,"Mountain View, California, United States"
+161,27,5,"Adex Media provides internet marketing, display marketing, lead generation, and affiliate marketing services."
+162,27,6,"35,612"
+163,28,1,28
+164,28,2,Xymogen
+165,28,3,"Dietary Supplements, Health Care"
+166,28,4,"Orlando, Florida, United States"
+167,28,5,"XYMOGEN manufactures dietary supplements and functional foods, distributing them through healthcare practitioners."
+168,28,6,"36,733"
+169,29,1,29
+170,29,2,Quincy Bioscience
+171,29,3,"Biotechnology, Dietary Supplements, Personal Health"
+172,29,4,"Madison, Wisconsin, United States"
+173,29,5,"Quincy Bioscience is a biotechnology company based in Madison, Wisconsin focused on the discovery, development and commercialization of"
+174,29,6,"39,315"
+175,30,1,30
+176,30,2,Life Equals
+177,30,3,"Dietary Supplements, Food and Beverage"
+178,30,4,"Lenexa, Kansas, United States"
+179,30,5,Creators of Balance the Superfood Shot. Our delicious superfood shot delivers 1/2 your daily organic superfoods in a convenient 2oz shot.
+180,30,6,"39,437"
+181,31,1,31
+182,31,2,EyePromise
+183,31,3,"Dietary Supplements, Health Care, Manufacturing"
+184,31,4,"Chesterfield, Missouri, United States"
+185,31,5,EyePromise manufactures and sells zeaxanthin dietary supplements for those at risk of age-related vision loss.
+186,31,6,"41,575"
+187,32,1,32
+188,32,2,Novalact
+189,32,3,"Biotechnology, Dietary Supplements, Health Diagnostics"
+190,32,4,"Santiago, Region Metropolitana, Chile"
+191,32,5,Probiotic based solutions for a changing world
+192,32,6,"42,220"
+193,33,1,33
+194,33,2,Procera
+195,33,3,"Dietary Supplements, Fitness, Health Care, Innovation Management, Pharmaceutical"
+196,33,4,"Tampa, Florida, United States"
+197,33,5,"Procera is a cognitive health brand, developing and innovating around a line of products designed to support brain health."
+198,33,6,"42,253"
+199,34,1,34
+200,34,2,Aminolabs
+201,34,3,"Dietary Supplements, Health Care, Nutrition"
+202,34,4,"Hasselt, Limburg, Belgium"
+203,34,5,Aminolabs is the preferred supplier of many internationally renowned companies in health and sports nutrition.
+204,34,6,"42,730"
+205,35,1,35
+206,35,2,Prana Essentials
+207,35,3,"Dietary Supplements, Fitness, Health Care"
+208,35,4,"Petah Tiqva, HaMerkaz, Israel"
+209,35,5,A personalized and condition based nutritional supplements market.
+210,35,6,"43,188"
+211,36,1,36
+212,36,2,Snap Infusion
+213,36,3,"Dietary Supplements, Energy"
+214,36,4,"Andover, Massachusetts, United States"
+215,36,5,"SUPERCANDY® is a natural energy snack packed b-vitamins, antioxidants and electrolytes."
+216,36,6,"43,596"
+217,37,1,37
+218,37,2,BioActor
+219,37,3,"Biotechnology, Dietary Supplements"
+220,37,4,"Maastricht, Limburg, The Netherlands"
+221,37,5,"BioActor develops proprietary health ingredients for use in functional foods, medical nutrition, and dietary supplements."
+222,37,6,"44,590"
+223,38,1,38
+224,38,2,PureBrands
+225,38,3,"Biotechnology, Dietary Supplements"
+226,38,4,"Boca Raton, Florida, United States"
+227,38,5,PureBrands manufactures transdermal patches to deliver nutritional and dietary supplements to athletes.
+228,38,6,"46,208"
+229,39,1,39
+230,39,2,LABOMAR
+231,39,3,"Biotechnology, Dietary Supplements"
+232,39,4,"Istrana, Veneto, Italy"
+233,39,5,"LABOMAR produces dietary supplements, diet foods, health products and medical devices."
+234,39,6,"49,665"
+235,40,1,40
+236,40,2,Fluxome
+237,40,3,"Biotechnology, Dietary Supplements, Natural Resources"
+238,40,4,"Stenløse, Hovedstaden, Denmark"
+239,40,5,Fluxome produces pure and natural resveratrol with ingredients that give beneficial effects to human health.
+240,40,6,"50,150"
+241,41,1,41
+242,41,2,Health Elements
+243,41,3,"Dietary Supplements, Health Care"
+244,41,4,"Sandpoint, Idaho, United States"
+245,41,5,Health Elements provides web-based solutions to support medical practices and their patients with integrative medical information.
+246,41,6,"50,313"
+247,42,1,42
+248,42,2,"Michelle's Miracle, Inc"
+249,42,3,"Dietary Supplements, Fruit, Health Care, Retail, Wholesale"
+250,42,4,"Traverse City, Michigan, United States"
+251,42,5,Cherry Works is a brand of nutritional supplements based on a backbone of Montmorency Tart Cherry Concentrate.
+252,42,6,"50,742"
+253,43,1,43
+254,43,2,Glanbia
+255,43,3,"Dietary Supplements, Nutrition"
+256,43,4,"Kilkenny, Kilkenny, Ireland"
+257,43,5,"Glanbia has evolved to become a leading global performance nutrition and ingredients group employing more than 5,000 people."
+258,43,6,"50,810"
+259,44,1,44
+260,44,2,Umii Products
+261,44,3,"Dietary Supplements, Enterprise Software"
+262,44,4,"Las Vegas, Nevada, United States"
+263,44,5,"Umii Products develops a line of products in the health, fitness, and wellness fields."
+264,44,6,"51,856"
+265,45,1,45
+266,45,2,Total Fitness and Nutrition
+267,45,3,"Dietary Supplements, Fitness, Nutrition, Personal Health"
+268,45,4,"Vancouver, British Columbia, Canada"
+269,45,5,Total Fitness and Nutrition offers on-demand training and nutrition plans put together by global fitness professionals.
+270,45,6,"52,403"
+271,46,1,46
+272,46,2,Botanic Innovations
+273,46,3,"Biotechnology, Dietary Supplements"
+274,46,4,"Spooner, Wisconsin, United States"
+275,46,5,"Botanic Innovations produces oils, nutri powders and other derivatives from non-GMO fruits, vegetables, grains and herb seeds."
+276,46,6,"52,726"
+277,47,1,47
+278,47,2,"Dynova Laboratories,Inc."
+279,47,3,"Dietary Supplements, Health Care, Medical"
+280,47,4,"Parsippany, New Jersey, United States"
+281,47,5,"Dynova Laboratories, LLC is a nutraceutical company focused on acquiring and developing natural supplements/OTC products."
+282,47,6,"52,912"
+283,48,1,48
+284,48,2,Bodshaperz
+285,48,3,"Dietary Supplements, Health Care, Nutrition"
+286,48,4,"Los Angeles, California, United States"
+287,48,5,Convenient Nutritional Supplement Subscription Box
+288,48,6,"59,916"
+289,49,1,49
+290,49,2,Foodoit
+291,49,3,"Dietary Supplements, Health Care"
+292,49,4,"Reykjavík, Gullbringusysla, Iceland"
+293,49,5,"Foodoit, improve the health of individuals who are at risk or deal with problems caused by an unhealthy diet with a web-platform"
+294,49,6,"62,424"
+295,50,1,50
+296,50,2,Xyngular
+297,50,3,"Dietary Supplements, Direct Sales, Wellness"
+298,50,4,"Lehi, Utah, United States"
+299,50,5,Xyngular is a network marketing company with a primary focus on weight loss supplements.
+300,50,6,"63,339"

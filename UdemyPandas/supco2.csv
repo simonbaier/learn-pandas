@@ -1,0 +1,1189 @@
+No,col,row,search,value
+1,1,1,1,1
+2,2,1,1,Quincy Bioscience
+3,3,1,1,"Biotechnology, Dietary Supplements, Personal Health"
+4,4,1,1,"Madison, Wisconsin, United States"
+5,5,1,1,"Quincy Bioscience is a biotechnology company based in Madison, Wisconsin focused on the discovery, development and commercialization of"
+6,6,1,1,"39,322"
+7,1,2,1,2
+8,2,2,1,Procera
+9,3,2,1,"Dietary Supplements, Fitness, Health Care, Innovation Management, Pharmaceutical"
+10,4,2,1,"Tampa, Florida, United States"
+11,5,2,1,"Procera is a cognitive health brand, developing and innovating around a line of products designed to support brain health."
+12,6,2,1,"42,263"
+13,1,3,1,3
+14,2,3,1,Kolé Life Foods
+15,3,3,1,"Dietary Supplements, Medical"
+16,4,3,1,"Charlotte, North Carolina, United States"
+17,5,3,1,"With operations in Baltimore and Charlotte, the purpose of the group is developing and selling natural, healthier and “better for you""."
+18,6,3,1,"68,407"
+19,1,4,1,4
+20,2,4,1,BrainQUICKEN
+21,3,4,1,"Dietary Supplements, Nutrition"
+22,4,4,1,—
+23,5,4,1,BrainQUICKEN is an online nutritional supplements company producing BodyQuick and Brain Quicken products.
+24,6,4,1,"76,805"
+25,1,5,1,5
+26,2,5,1,Wise Ape Tea
+27,3,5,1,"Consumer Goods, Dietary Supplements, E-Commerce, Food and Beverage, Tea, Wellness"
+28,4,5,1,"Marlton, New Jersey, United States"
+29,5,5,1,"Wise Ape is a healthy-lifestyle tea company, with an altruistic core - a brand built for a new generation of tea drinkers."
+30,6,5,1,"139,467"
+31,1,6,1,6
+32,2,6,1,Nootrology
+33,3,6,1,"Dietary Supplements, Nutrition"
+34,4,6,1,—
+35,5,6,1,Nootrology brings you brain-boosting supplements that will transform the way you perform both cognitively and physically.
+36,6,6,1,"275,658"
+37,1,7,1,7
+38,2,7,1,BrainChild Nutritionals
+39,3,7,1,Dietary Supplements
+40,4,7,1,"Soquel, California, United States"
+41,5,7,1,"BrainChild Nutritionals is a manufacturer of fast absorbing nutrition for children with autism, aspergers and ADHD."
+42,6,7,1,"294,405"
+43,1,8,2,1
+44,2,8,2,Tongal
+45,3,8,2,"Advertising, Crowdsourcing"
+46,4,8,2,"Santa Monica, California, United States"
+47,5,8,2,"Tongal connects businesses that need creative work with an always-on network of writers, directors, and production companies who deliver it."
+48,6,8,2,716
+49,1,9,2,2
+50,2,9,2,Neuralink
+51,3,9,2,"Artificial Intelligence, Medical, Neuroscience"
+52,4,9,2,"San Francisco, California, United States"
+53,5,9,2,Neuralink is developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+54,6,9,2,786
+55,1,10,2,3
+56,2,10,2,Brainomix
+57,3,10,2,"Medical, Medical Device, Software"
+58,4,10,2,"Oxford, Oxfordshire, United Kingdom"
+59,5,10,2,"Brainomix start-up company, developing medical imaging software that automatically interprets brain CT scans of stroke patients."
+60,6,10,2,900
+61,1,11,2,4
+62,2,11,2,Cortica
+63,3,11,2,"Artificial Intelligence, Automotive, Autonomous Vehicles, Computer Vision, Machine Learning, Security"
+64,4,11,2,"Tel Aviv, Tel Aviv, Israel"
+65,5,11,2,Cortica is a technology company developing leading computer vision AI. The company is backed by more than 200 patents.
+66,6,11,2,"1,076"
+67,1,12,2,5
+68,2,12,2,Near
+69,3,12,2,"Analytics, Artificial Intelligence, Digital Marketing, Location Based Services, SaaS"
+70,4,12,2,"Singapore, Central Region, Singapore"
+71,5,12,2,"Near is an ambient intelligence platform providing real-time information on places, people, and products."
+72,6,12,2,"1,403"
+73,1,13,2,6
+74,2,13,2,Neural Analytics
+75,3,13,2,"Biotechnology, Health Care, Medical Device"
+76,4,13,2,"Los Angeles, California, United States"
+77,5,13,2,Neural Analytics is addressing the global traumatic brain injury epidemic through data science.
+78,6,13,2,"1,789"
+79,1,14,2,7
+80,2,14,2,Mindstrong Health
+81,3,14,2,—
+82,4,14,2,"Palo Alto, California, United States"
+83,5,14,2,Mindstrong Health is transforming the diagnosis and treatment of behavioral health disorders through the ubiquity of mobile technology
+84,6,14,2,"1,796"
+85,1,15,2,8
+86,2,15,2,Brain Corporation
+87,3,15,2,"Artificial Intelligence, Autonomous Vehicles, Robotics, Software"
+88,4,15,2,"San Diego, California, United States"
+89,5,15,2,Brain Corporation is a developer of autonomous navigational technologies.
+90,6,15,2,"1,815"
+91,1,16,2,9
+92,2,16,2,Prexton Therapeutics
+93,3,16,2,"Health Care, Medical, Pharmaceutical"
+94,4,16,2,"Plan-les-ouates, Geneve, Switzerland"
+95,5,16,2,Prexton Therapeutics has the mission to develop innovative drugs to improve the quality of life.
+96,6,16,2,"1,827"
+97,1,17,2,10
+98,2,17,2,Nectome
+99,3,17,2,"Life Science, Medical, Neuroscience"
+100,4,17,2,"Mountain View, California, United States"
+101,5,17,2,Nectome is a neuroscience startup that aims to preserve the brain and keep all its memories intact.
+102,6,17,2,"2,083"
+103,1,18,2,11
+104,2,18,2,Lumos Labs
+105,3,18,2,"Health Care, Neuroscience, Wellness"
+106,4,18,2,"San Francisco, California, United States"
+107,5,18,2,Lumosity is a neuroscience research company that provides online brain training programs.
+108,6,18,2,"2,144"
+109,1,19,2,12
+110,2,19,2,Vicarious
+111,3,19,2,"Artificial Intelligence, Machine Learning, Robotics"
+112,4,19,2,"San Francisco, California, United States"
+113,5,19,2,Vicarious is an artificial intelligence company that uses the computational principles of the brain to develop general intelligence for robo
+114,6,19,2,"2,218"
+115,1,20,2,13
+116,2,20,2,Kallyope
+117,3,20,2,"Biotechnology, Medical, Pharmaceutical"
+118,4,20,2,"New York, New York, United States"
+119,5,20,2,Kallyope is a healthcare company focusing on biotechnology business.
+120,6,20,2,"2,650"
+121,1,21,2,14
+122,2,21,2,InteraXon (Muse)
+123,3,21,2,"Database, Fitness, Hardware, Software"
+124,4,21,2,"Toronto, Ontario, Canada"
+125,5,21,2,"A platform that leverages the world’s largest database of brain activity to help people live happier, healthier lives."
+126,6,21,2,"2,974"
+127,1,22,2,15
+128,2,22,2,MindMaze
+129,3,22,2,"Computer, Health Care, Human Computer Interaction, Information Technology, Media and Entertainment, Medical, Motion Capture, Neuroscience, Virtual Reality"
+130,4,22,2,"Lausanne, Vaud, Switzerland"
+131,5,22,2,"MindMaze builds human machine interfaces combining mixed reality, artificial intelligence, brain imaging, and neuroscience."
+132,6,22,2,"3,067"
+133,1,23,2,16
+134,2,23,2,Ometria
+135,3,23,2,"Analytics, E-Commerce, Marketing Automation, SaaS"
+136,4,23,2,"London, England, United Kingdom"
+137,5,23,2,Ometria is a customer insight and marketing automation platform which lets retailers communicate with their customers in a personalised way.
+138,6,23,2,"3,172"
+139,1,24,2,17
+140,2,24,2,Neurala
+141,3,24,2,"Artificial Intelligence, Drones, Machine Learning, Robotics, Software"
+142,4,24,2,"Boston, Massachusetts, United States"
+143,5,24,2,Neurala is the deep learning neural network software company behind The Neurala Brain.
+144,6,24,2,"3,553"
+145,1,25,2,18
+146,2,25,2,Rythm
+147,3,25,2,"Biotechnology, Consumer Electronics, Hardware, Health Care, Internet of Things, Neuroscience, Wearables"
+148,4,25,2,"San Francisco, California, United States"
+149,5,25,2,Rythm is a neurotechnology company building consumer technology that stimulates the brain to enhance human potential.
+150,6,25,2,"3,570"
+151,1,26,2,19
+152,2,26,2,Emotech LTD
+153,3,26,2,"Artificial Intelligence, Hardware, Robotics"
+154,4,26,2,"London, England, United Kingdom"
+155,5,26,2,Emotech is a London-based AI startup aiming to redefine the relationship between humans and technology.
+156,6,26,2,"3,920"
+157,1,27,2,20
+158,2,27,2,Aptinyx
+159,3,27,2,"Biopharma, Biotechnology, Medical"
+160,4,27,2,"Evanston, Illinois, United States"
+161,5,27,2,Aptinyx Inc. is a biopharmaceutical company
+162,6,27,2,"3,943"
+163,1,28,2,21
+164,2,28,2,Lily
+165,3,28,2,"Consumer Electronics, Drones, Robotics"
+166,4,28,2,"San Francisco, California, United States"
+167,5,28,2,Lily is a flying camera that takes photos and video in the moment!.
+168,6,28,2,"4,148"
+169,1,29,2,22
+170,2,29,2,Clinc
+171,3,29,2,"Artificial Intelligence, Financial Services, Software"
+172,4,29,2,"Ann Arbor, Michigan, United States"
+173,5,29,2,"Mobile, voice-activated, artificial intelligence platform enabling personal and instant answers for common or complex questions."
+174,6,29,2,"4,201"
+175,1,30,2,23
+176,2,30,2,Nervana
+177,3,30,2,"Analytics, Artificial Intelligence, Big Data, Cloud Computing, Hardware, Information Technology, Machine Learning, Open Source, Software"
+178,4,30,2,"San Diego, California, United States"
+179,5,30,2,Nervana is building technology to power the next generation of intelligent applications.
+180,6,30,2,"4,376"
+181,1,31,2,24
+182,2,31,2,Arbe Robotics
+183,3,31,2,"Automotive, Autonomous Vehicles, Robotics"
+184,4,31,2,"Tel Aviv-yafo, Tel Aviv, Israel"
+185,5,31,2,Arbe Robotics builds collision avoidance product for drones and Swarm platform based on radar.
+186,6,31,2,"4,428"
+187,1,32,2,25
+188,2,32,2,Boxever
+189,3,32,2,"Analytics, Big Data, Personalization, Software, Travel"
+190,4,32,2,"Dublin, Dublin, Ireland"
+191,5,32,2,Boxever is a customer intelligence cloud for marketers.
+192,6,32,2,"4,718"
+193,1,33,2,26
+194,2,33,2,CARsgen Therapeutics
+195,3,33,2,"Health Diagnostics, Medical, Therapeutics"
+196,4,33,2,"Shanghai, Shanghai, China"
+197,5,33,2,CARsgen is a leading immunotherapy company focused on the development of new chimeric antigen receptor
+198,6,33,2,"4,817"
+199,1,34,2,27
+200,2,34,2,NeuroPace
+201,3,34,2,"Biotechnology, Health Care, Neuroscience"
+202,4,34,2,"Mountain View, California, United States"
+203,5,34,2,NeuroPace develops and markets implantable devices for the treatment of neurological disorders.
+204,6,34,2,"4,907"
+205,1,35,2,28
+206,2,35,2,Eyefluence
+207,3,35,2,"Consumer Electronics, Manufacturing, Wearables"
+208,4,35,2,"Milpitas, California, United States"
+209,5,35,2,"Eyefluence is the first eye-interaction technology for AR, VR, and MR devices which transforms intent into action through the eyes."
+210,6,35,2,"5,188"
+211,1,36,2,29
+212,2,36,2,Maluuba
+213,3,36,2,"Artificial Intelligence, Machine Learning, Natural Language Processing, Speech Recognition"
+214,4,36,2,"Waterloo, Ontario, Canada"
+215,5,36,2,Maluuba conducts research and develops state-of-the-art deep learning algorithms to teach literacy to machines.
+216,6,36,2,"5,247"
+217,1,37,2,30
+218,2,37,2,Specialists On Call
+219,3,37,2,"Consulting, Emergency Medicine, Enterprise Software, Health Care"
+220,4,37,2,"Reston, Virginia, United States"
+221,5,37,2,"Specialists On Call, Inc. (“SOC”) is the largest provider of telemedicine services and technology to US hospitals"
+222,6,37,2,"5,335"
+223,1,38,2,31
+224,2,38,2,Arimo
+225,3,38,2,"Analytics, Artificial Intelligence, Big Data, Internet of Things, Machine Learning"
+226,4,38,2,"Mountain View, California, United States"
+227,5,38,2,Arimo is on a quest to build the Enterprise Brain.
+228,6,38,2,"5,548"
+229,1,39,2,32
+230,2,39,2,Viz
+231,3,39,2,"Artificial Intelligence, Health Diagnostics, Medical"
+232,4,39,2,"San Francisco, California, United States"
+233,5,39,2,Viz helps physicians to identify anomalies in brain scans through machine learning.
+234,6,39,2,"5,621"
+235,1,40,2,33
+236,2,40,2,BlackThorn Therapeutics
+237,3,40,2,Biotechnology
+238,4,40,2,"South San Francisco, California, United States"
+239,5,40,2,BlackThorn Therapeutics is a clinical-stage biopharmaceutical company
+240,6,40,2,"6,171"
+241,1,41,2,34
+242,2,41,2,Peak
+243,3,41,2,"EdTech, Education, Mobile"
+244,4,41,2,"London, England, United Kingdom"
+245,5,41,2,Brain training reimagined for your mobile lifestyle.
+246,6,41,2,"6,220"
+247,1,42,2,35
+248,2,42,2,PrimeSense
+249,3,42,2,"3D Technology, Consumer Electronics, Hardware"
+250,4,42,2,"Tel Aviv, Tel Aviv, Israel"
+251,5,42,2,"PrimeSense offers an interactive device that can see, track and react to user movements outside the computer."
+252,6,42,2,"6,320"
+253,1,43,2,36
+254,2,43,2,BrainCo
+255,3,43,2,"Education, Electronics, Hardware, Health Care, Neuroscience, Wearables"
+256,4,43,2,"Somerville, Massachusetts, United States"
+257,5,43,2,BrainCo strives to apply brain machine interface (BMI) and neurofeedback training to optimize the potential of the human brain.
+258,6,43,2,"6,421"
+259,1,44,2,37
+260,2,44,2,Imagry
+261,3,44,2,"Automotive, Crowdsourcing, Internet of Things, Mobile, Mobile Devices, Publishing, Software, Wearables"
+262,4,44,2,"Columbus, Ohio, United States"
+263,5,44,2,Imagry is developing software for level 4/5 automated driving
+264,6,44,2,"6,849"
+265,1,45,2,38
+266,2,45,2,IdeaFlow
+267,3,45,2,"Artificial Intelligence, B2B, SaaS"
+268,4,45,2,—
+269,5,45,2,A human-AI hybrid “shared brain” for organizations
+270,6,45,2,"7,095"
+271,1,46,2,39
+272,2,46,2,Verge Genomics
+273,3,46,2,"Genetics, Health Care"
+274,4,46,2,"San Francisco, California, United States"
+275,5,46,2,Verge Genomics is looking to find cures for brain diseases.
+276,6,46,2,"7,637"
+277,1,47,2,40
+278,2,47,2,CloudMedx Inc
+279,3,47,2,"Artificial Intelligence, Big Data, Health Care, Information Technology, Machine Learning, Natural Language Processing, Neuroscience, Personal Health, Predictive Analytics"
+280,4,47,2,"Palo Alto, California, United States"
+281,5,47,2,CloudMedx Inc. designs artificial intelligence driven software for medical analytics.
+282,6,47,2,"7,703"
+283,1,48,2,41
+284,2,48,2,Cortical.io
+285,3,48,2,"Analytics, Artificial Intelligence, Big Data, Machine Learning, Natural Language Processing, Semantic Search"
+286,4,48,2,"Vienna, Wien, Austria"
+287,5,48,2,Cortical.io offers Natural Language Understanding solutions based on its brain-inspired Semantic Folding technology.
+288,6,48,2,"8,021"
+289,1,49,2,42
+290,2,49,2,Neurable
+291,3,49,2,"Augmented Reality, Human Computer Interaction, Virtual Reality"
+292,4,49,2,"Cambridge, Massachusetts, United States"
+293,5,49,2,Neurable creates brain-enabled control directed towards virtual and augmented reality.
+294,6,49,2,"8,064"
+295,1,50,2,43
+296,2,50,2,Ovid Therapeutics
+297,3,50,2,"Biopharma, Biotechnology, Health Care"
+298,4,50,2,"New York, New York, United States"
+299,5,50,2,Ovid Therapeutic's purpose is to solve intractable medical problems.
+300,6,50,2,"8,128"
+301,1,51,2,44
+302,2,51,2,Aleva Neurotherapeutics
+303,3,51,2,"Health Diagnostics, Medical Device, Neuroscience"
+304,4,51,2,"Lausanne, Vaud, Switzerland"
+305,5,51,2,It has developed proprietary neurostimulation platform based on microDBS Technology
+306,6,51,2,"8,176"
+307,1,52,2,45
+308,2,52,2,Aromyx
+309,3,52,2,"Analytics, Artificial Intelligence, Big Data, Biotechnology, Machine Learning"
+310,4,52,2,"Palo Alto, California, United States"
+311,5,52,2,Aromyx Corporation digitizes taste and smell - the 40% of sensory data never before measured.
+312,6,52,2,"8,512"
+313,1,53,2,46
+314,2,53,2,Nura
+315,3,53,2,"Biotechnology, Hardware, Music, Wearables"
+316,4,53,2,"Melbourne, Victoria, Australia"
+317,5,53,2,"Nura is a Melbourne-based team of experts in engineering, acoustics, biology, hearing science and product delivery."
+318,6,53,2,"8,594"
+319,1,54,2,47
+320,2,54,2,Alzheon
+321,3,54,2,"Biotechnology, Clinical Trials, Health Diagnostics"
+322,4,54,2,"Lexington, Massachusetts, United States"
+323,5,54,2,"Alzheon, Inc., is a clinical-stage biotechnology company focused on brain health, memory and aging, developing a pipeline of innovative."
+324,6,54,2,"8,727"
+325,1,55,2,48
+326,2,55,2,Zonoff
+327,3,55,2,"Energy Management, Information Technology, Smart Home"
+328,4,55,2,"Malvern, Pennsylvania, United States"
+329,5,55,2,"Zonoff offers a software platform that channels retailers, OEMs and integrators who deliver 'connected home' products to the mass market."
+330,6,55,2,"8,839"
+331,1,56,2,49
+332,2,56,2,Paradromics
+333,3,56,2,"Biotechnology, Health Care, Health Diagnostics, Medical Device, Sensor"
+334,4,56,2,"San Jose, California, United States"
+335,5,56,2,Paradromics is developing next-generation brain-machine interfaces.
+336,6,56,2,"8,946"
+337,1,57,3,1
+338,2,57,3,Welltok
+339,3,57,3,"Fitness, Health Care, SaaS, Wellness"
+340,4,57,3,"Denver, Colorado, United States"
+341,5,57,3,Welltok’s CaféWell Health Optimization Platform provides consumers with personalized guidance and incentives to optimize their health.
+342,6,57,3,57
+343,1,58,3,2
+344,2,58,3,WorkFusion
+345,3,58,3,"Artificial Intelligence, Enterprise Software, Machine Learning, Robotics"
+346,4,58,3,"New York, New York, United States"
+347,5,58,3,"WorkFusion automates enterprise business processes by combining robotics, AI-powered cognitive automation, and workforce orchestration."
+348,6,58,3,144
+349,1,59,3,3
+350,2,59,3,BioCatch
+351,3,59,3,"Cyber Security, FinTech, Fraud Detection, Network Security"
+352,4,59,3,"Tel Aviv, Tel Aviv, Israel"
+353,5,59,3,"BioCatch is a cybersecurity company that delivers behavioral biometrics, analyzing human-device interactions to protect users and data."
+354,6,59,3,174
+355,1,60,3,4
+356,2,60,3,Digital Reasoning
+357,3,60,3,"Analytics, Artificial Intelligence, Big Data, Machine Learning, Natural Language Processing, Software, Text Analytics"
+358,4,60,3,"Franklin, Tennessee, United States"
+359,5,60,3,Digital Reasoning is a leader in Cognitive Computing for the Enterprise.
+360,6,60,3,301
+361,1,61,3,5
+362,2,61,3,SparkCognition
+363,3,61,3,"Analytics, Cyber Security, Machine Learning, Software"
+364,4,61,3,"Austin, Texas, United States"
+365,5,61,3,"SparkCognition engages in developing AI-Powered cyber-physical software for the safety, security, and reliability of IT, OT, and the IoT."
+366,6,61,3,706
+367,1,62,3,6
+368,2,62,3,"Veritone, Inc."
+369,3,62,3,"Analytics, Artificial Intelligence, Audio, Computer Vision, Facial Recognition, Geospatial, Image Recognition, Machine Learning, Natural Language Processing, Search Engine, Speech Recognition, Video, Visual Search"
+370,4,62,3,"Costa Mesa, California, United States"
+371,5,62,3,Veritone has created a future-proof AI platform that comprehends and transforms multiple forms of data to create actionable intelligence.
+372,6,62,3,749
+373,1,63,3,7
+374,2,63,3,Beyond Limits
+375,3,63,3,Artificial Intelligence
+376,4,63,3,"Glendale, California, United States"
+377,5,63,3,Beyond Limits is a pioneering cognitive AI company with advanced technology proven in the US space program.
+378,6,63,3,966
+379,1,64,3,8
+380,2,64,3,Lantern
+381,3,64,3,"Fitness, Health Care, Wellness"
+382,4,64,3,"San Francisco, California, United States"
+383,5,64,3,Lantern's personalized programs combine quick daily exercises with professional coaching to strengthen emotional well-being
+384,6,64,3,"1,097"
+385,1,65,3,9
+386,2,65,3,Neurotrack
+387,3,65,3,"Biotechnology, Health Care, Health Diagnostics, Information Technology"
+388,4,65,3,"Redwood City, California, United States"
+389,5,65,3,Transforming the diagnosis and prevention of memory loss.
+390,6,65,3,"1,194"
+391,1,66,3,10
+392,2,66,3,CognitiveScale
+393,3,66,3,"Artificial Intelligence, Big Data, Information Services, Information Technology, Machine Learning, Software"
+394,4,66,3,"Austin, Texas, United States"
+395,5,66,3,CognitiveScale provides industry-specific enterprise cognitive cloud software.
+396,6,66,3,"1,668"
+397,1,67,3,11
+398,2,67,3,Woebot Labs
+399,3,67,3,—
+400,4,67,3,"San Francisco, California, United States"
+401,5,67,3,Woebot is an automated conversational agent (chatbot) who helps you monitor mood and learn about yourself.
+402,6,67,3,"1,809"
+403,1,68,3,12
+404,2,68,3,Aera Technology
+405,3,68,3,"Analytics, Business Intelligence, Cloud Computing, Enterprise Software, SaaS"
+406,4,68,3,"Mountain View, California, United States"
+407,5,68,3,Aera is the cognitive technology that enables the Self-Driving Enterprise.
+408,6,68,3,"1,919"
+409,1,69,3,13
+410,2,69,3,Lumos Labs
+411,3,69,3,"Health Care, Neuroscience, Wellness"
+412,4,69,3,"San Francisco, California, United States"
+413,5,69,3,Lumosity is a neuroscience research company that provides online brain training programs.
+414,6,69,3,"2,144"
+415,1,70,3,14
+416,2,70,3,Ipsen
+417,3,70,3,Biotechnology
+418,4,70,3,"Boulogne-billancourt, Ile-de-France, France"
+419,5,70,3,"Ipsen S.A. engages in the research, development, manufacture, and sale of pharmaceutical products worldwide."
+420,6,70,3,"2,184"
+421,1,71,3,15
+422,2,71,3,Catalyte
+423,3,71,3,"Artificial Intelligence, Big Data, Enterprise Software, Machine Learning, Predictive Analytics, Software Engineering"
+424,4,71,3,"Baltimore, Maryland, United States"
+425,5,71,3,"Catalyte uses AI to identify, upskill and assemble high-performing software development teams."
+426,6,71,3,"2,200"
+427,1,72,3,16
+428,2,72,3,Pymetrics
+429,3,72,3,"Artificial Intelligence, Neuroscience, Recruiting"
+430,4,72,3,"New York, New York, United States"
+431,5,72,3,Pymetrics is the next generation job marketplace.
+432,6,72,3,"2,361"
+433,1,73,3,17
+434,2,73,3,Attivio
+435,3,73,3,"Enterprise Software, Information Technology, Open Source, Search Engine"
+436,4,73,3,"Boston, Massachusetts, United States"
+437,5,73,3,"Leading Cognitive Search and Insights Platform, trusted by Fortune 1000 companies and named by Forrester as a leader in the Wave."
+438,6,73,3,"2,917"
+439,1,74,3,18
+440,2,74,3,Akili Interactive Labs
+441,3,74,3,"Clinical Trials, Health Care, Medical Device"
+442,4,74,3,"Boston, Massachusetts, United States"
+443,5,74,3,"Akili builds clinically-validated cognitive therapeutics, assessments, and diagnostics that look and feel like video games."
+444,6,74,3,"3,879"
+445,1,75,3,19
+446,2,75,3,Voyager Labs
+447,3,75,3,"Analytics, Developer Platform, Software"
+448,4,75,3,"Israel, Asia"
+449,5,75,3,Voyager Labs develops core technology with the capability to analyze billions of data points worldwide from multiple sources in real-time.
+450,6,75,3,"3,975"
+451,1,76,3,20
+452,2,76,3,HVMN
+453,3,76,3,"Dietary Supplements, E-Commerce, Nutrition"
+454,4,76,3,"San Francisco, California, United States"
+455,5,76,3,Nootrobox is an e-commerce startup offering nootropics or cognitive supplements.
+456,6,76,3,"4,066"
+457,1,77,3,21
+458,2,77,3,Ascend.io
+459,3,77,3,"Big Data, Software"
+460,4,77,3,"Palo Alto, California, United States"
+461,5,77,3,Ascend is a platform for the rapid creation of big data solutions without big data code.
+462,6,77,3,"4,073"
+463,1,78,3,22
+464,2,78,3,Prevedere
+465,3,78,3,"Big Data, Predictive Analytics, SaaS, Software"
+466,4,78,3,"Sunnyvale, California, United States"
+467,5,78,3,Prevedére is an enterprise software company enabling companies to identify the external economic factors that drive their business results.
+468,6,78,3,"4,402"
+469,1,79,3,23
+470,2,79,3,Happify
+471,3,79,3,"Gaming, Health Care, Personal Health, Psychology, Wellness"
+472,4,79,3,"New York, New York, United States"
+473,5,79,3,"Happify is the most established destination for effective, evidence-based solutions for better emotional health & mindfulness on the market."
+474,6,79,3,"4,442"
+475,1,80,3,24
+476,2,80,3,Scoutible
+477,3,80,3,"Big Data, Human Resources, Recruiting, Video Games"
+478,4,80,3,"San Francisco, California, United States"
+479,5,80,3,Scoutible is a video game-based hiring platform.
+480,6,80,3,"4,696"
+481,1,81,3,25
+482,2,81,3,Market Logic Software
+483,3,81,3,"Market Research, Software"
+484,4,81,3,"Berlin, Berlin, Germany"
+485,5,81,3,"Market Logic Software offers software to plan, execute, and reuse market research in innovation, marketing, and sales decisions."
+486,6,81,3,"4,922"
+487,1,82,3,26
+488,2,82,3,Wonderschool
+489,3,82,3,"Child Care, Children, Education, Parenting, Primary Education"
+490,4,82,3,"San Francisco, California, United States"
+491,5,82,3,Wonderschool offers a platform where people can start infant and toddler programs and preschools out of their homes.
+492,6,82,3,"5,030"
+493,1,83,3,27
+494,2,83,3,Local Motors
+495,3,83,3,"Crowdsourcing, Internet of Things, Local, Manufacturing, Open Source, Product Design, Robotics, SaaS, Software"
+496,4,83,3,"Chandler, Arizona, United States"
+497,5,83,3,"Local Motors is a technology company that designs, builds, and sells vehicles."
+498,6,83,3,"5,823"
+499,1,84,3,28
+500,2,84,3,Joyable
+501,3,84,3,"E-Commerce, Health Care, Medical, Wellness"
+502,4,84,3,"San Francisco, California, United States"
+503,5,84,3,Joyable is the leading online solution for overcoming social anxiety.
+504,6,84,3,"5,831"
+505,1,85,3,29
+506,2,85,3,Peak
+507,3,85,3,"EdTech, Education, Mobile"
+508,4,85,3,"London, England, United Kingdom"
+509,5,85,3,Brain training reimagined for your mobile lifestyle.
+510,6,85,3,"6,220"
+511,1,86,3,30
+512,2,86,3,"Learn to Live, Inc."
+513,3,86,3,"Health Care, Psychology"
+514,4,86,3,"Eden Prairie, Minnesota, United States"
+515,5,86,3,"Learn to Live provides online, CBT-based programs to address psychological problems such as depression, stress, anxiety and others."
+516,6,86,3,"6,697"
+517,1,87,3,31
+518,2,87,3,"Omni Ai, Inc."
+519,3,87,3,"Analytics, Artificial Intelligence, GPU, Machine Learning"
+520,4,87,3,"Dallas, Texas, United States"
+521,5,87,3,Omni Ai creates an unsupervised AI self learning engine with deep learning capabilities.
+522,6,87,3,"6,821"
+523,1,88,3,32
+524,2,88,3,Wiretap
+525,3,88,3,"Compliance, Cyber Security, Enterprise Software, Security, Social Media Management"
+526,4,88,3,"Columbus, Ohio, United States"
+527,5,88,3,"Wiretap interfaces with social networks to allow companies to safely grow, learn from and secure their social interactions."
+528,6,88,3,"7,339"
+529,1,89,3,33
+530,2,89,3,Axovant Sciences
+531,3,89,3,"Biopharma, Biotechnology, Neuroscience"
+532,4,89,3,"Basel, Basel-Stadt, Switzerland"
+533,5,89,3,Axovant Sciences is a clinical-stage biopharmaceutical company
+534,6,89,3,"7,640"
+535,1,90,3,34
+536,2,90,3,Element Data
+537,3,90,3,"Artificial Intelligence, Internet, Machine Learning"
+538,4,90,3,"Seattle, Washington, United States"
+539,5,90,3,A Seattle startup that uses machine learning to help people and organizations make big decisions.
+540,6,90,3,"7,775"
+541,1,91,3,35
+542,2,91,3,Ieso Digital Health
+543,3,91,3,"Biotechnology, Health Care"
+544,4,91,3,"Cambridgeshire, United Kingdom, Europe"
+545,5,91,3,Ieso Digital Health provides evidence-based mental health therapy online.
+546,6,91,3,"7,983"
+547,1,92,3,36
+548,2,92,3,Jvion
+549,3,92,3,"Big Data, Predictive Analytics"
+550,4,92,3,"Georgia, Louisiana, United States"
+551,5,92,3,"At Jvion, we predict events to save lives. Our value isn’t tied our solution’s sophistication; it’s tied to health outcomes that we improve."
+552,6,92,3,"8,148"
+553,1,93,3,37
+554,2,93,3,New Knowledge
+555,3,93,3,"Analytics, Embedded Systems, Information Technology"
+556,4,93,3,"Austin, Texas, United States"
+557,5,93,3,New Knowledge is a company that builds technologies to automate machine learning and predict human behavior.
+558,6,93,3,"8,421"
+559,1,94,3,38
+560,2,94,3,WayBlazer
+561,3,94,3,Travel
+562,4,94,3,"Austin, Texas, United States"
+563,5,94,3,"WayBlazer is an intelligent discovery system that delivers contextual, personalized advice and insights for travelers."
+564,6,94,3,"8,575"
+565,1,95,3,39
+566,2,95,3,DataRPM Corporation
+567,3,95,3,"Analytics, Artificial Intelligence, Big Data, Machine Learning, Predictive Analytics, Software"
+568,4,95,3,"Redwood City, California, United States"
+569,5,95,3,DataRPM is a Cognitive Data Science Platform for enterprises to build Predictive Analytics and Recommender Systems.
+570,6,95,3,"8,701"
+571,1,96,3,40
+572,2,96,3,Alzheon
+573,3,96,3,"Biotechnology, Clinical Trials, Health Diagnostics"
+574,4,96,3,"Lexington, Massachusetts, United States"
+575,5,96,3,"Alzheon, Inc., is a clinical-stage biotechnology company focused on brain health, memory and aging, developing a pipeline of innovative."
+576,6,96,3,"8,727"
+577,1,97,3,41
+578,2,97,3,REVATURE
+579,3,97,3,"Career Planning, Computer, Software, Training"
+580,4,97,3,"Reston, Virginia, United States"
+581,5,97,3,Revature partners with top colleges and universities to provide students with careers in coding and software development.
+582,6,97,3,"8,819"
+583,1,98,3,42
+584,2,98,3,Wysdom
+585,3,98,3,"Artificial Intelligence, Customer Service, Internet of Things, Q&A"
+586,4,98,3,"Toronto, Ontario, Canada"
+587,5,98,3,They provide one place to listen and understand the customer.
+588,6,98,3,"8,835"
+589,1,99,3,43
+590,2,99,3,Bottlenose
+591,3,99,3,"Analytics, Artificial Intelligence, Big Data, Business Intelligence, Enterprise Software, Real Time"
+592,4,99,3,"Sherman Oaks, California, United States"
+593,5,99,3,Bottlenose is a cognitive computing company that makes data analysis easy so businesses can benefit from key insights in real time.
+594,6,99,3,"9,026"
+595,1,100,3,44
+596,2,100,3,YouEye
+597,3,100,3,"Analytics, Big Data, Business Intelligence, Consulting, Enterprise Software, Machine Learning, Market Research, SaaS"
+598,4,100,3,"Mountain View, California, United States"
+599,5,100,3,"YouEye is a SaaS exp analytics platform, enabling brands to analyze any customer consuming any content, in any location, on any device."
+600,6,100,3,"9,489"
+601,1,101,3,45
+602,2,101,3,SlashNext
+603,3,101,3,"Cyber Security, Security, Software"
+604,4,101,3,"Pleasanton, California, United States"
+605,5,101,3,SlashNext revolutionizes internet access protection with new approach to protecting users & systems every time they connect to the Internet.
+606,6,101,3,"9,490"
+607,1,102,3,46
+608,2,102,3,Feel
+609,3,102,3,"Biotechnology, Health Care, Health Diagnostics, Health Insurance, Medical Device, Psychology"
+610,4,102,3,"San Francisco, California, United States"
+611,5,102,3,"Feel is the first wristband that recognizes and tracks human emotions throughout the day, to help users achieve their wellbeing goals."
+612,6,102,3,"9,677"
+613,1,103,3,47
+614,2,103,3,BrainCheck
+615,3,103,3,"Health Care, Health Diagnostics, Mobile Apps, Personal Health"
+616,4,103,3,"Houston, Texas, United States"
+617,5,103,3,BrainCheck is a mobile interactive test for cognitive health.
+618,6,103,3,"9,744"
+619,1,104,3,48
+620,2,104,3,omni:us
+621,3,104,3,"Artificial Intelligence, Information Technology, Machine Learning"
+622,4,104,3,"Berlin, Berlin, Germany"
+623,5,104,3,omni:us delivers structured data from highly variable documents to streamline your processes & facilitate end2end document interchange.
+624,6,104,3,"9,866"
+625,1,105,3,49
+626,2,105,3,Elevate Labs
+627,3,105,3,"Analytics, Apps, Communication Hardware"
+628,4,105,3,"San Francisco, California, United States"
+629,5,105,3,Elevate is a new type of cognitive training tool designed to build communication and analytical skills.
+630,6,105,3,"10,088"
+631,1,106,3,50
+632,2,106,3,TechSee
+633,3,106,3,"Augmented Reality, Communications Infrastructure, Mobile, Virtualization"
+634,4,106,3,"Herzlia B, Tel Aviv, Israel"
+635,5,106,3,TechSee builds smart visual platforms that enable service providers to interact with the customer via a live virtual channel.
+636,6,106,3,"10,158"
+637,1,107,4,1
+638,2,107,4,HVMN
+639,3,107,4,"Dietary Supplements, E-Commerce, Nutrition"
+640,4,107,4,"San Francisco, California, United States"
+641,5,107,4,Nootrobox is an e-commerce startup offering nootropics or cognitive supplements.
+642,6,107,4,"4,066"
+643,1,108,4,2
+644,2,108,4,Tewarie Enterprises
+645,3,108,4,"Dietary Supplements, Fitness, Health Care, Personal Health, Retail Technology"
+646,4,108,4,"Boston, Massachusetts, United States"
+647,5,108,4,Investment fund for high-growth startups within retail distribution.
+648,6,108,4,"30,628"
+649,1,109,4,3
+650,2,109,4,Pure Nootropics
+651,3,109,4,Health Care
+652,4,109,4,"Albuquerque, New Mexico, United States"
+653,5,109,4,Pure Nootropics is a developer of smart drugs that enhances people's lives.
+654,6,109,4,"52,230"
+655,1,110,4,4
+656,2,110,4,"Nootropedia, LLC"
+657,3,110,4,"Analytics, Developer Platform, Medical"
+658,4,110,4,—
+659,5,110,4,Nootropedia creates tools to track and analyze cognitive enhancement through nootropics and smart drugs
+660,6,110,4,"57,691"
+661,1,111,4,5
+662,2,111,4,NootBot
+663,3,111,4,Software
+664,4,111,4,"Ljubljana, Ljubljana Urban Commune, Slovenia"
+665,5,111,4,Messenger chatbot for nootropics (congitive enhancers). Talk and suggest right cognitive enhancers.
+666,6,111,4,"82,415"
+667,1,112,4,6
+668,2,112,4,"NeuroGum, LLC"
+669,3,112,4,"Consumer Goods, E-Commerce, Lifestyle"
+670,4,112,4,"Los Angeles, California, United States"
+671,5,112,4,"NeuroGum is a confectionary company that creates products that enhance focus and cognition, all while giving you a fresh breath of energy."
+672,6,112,4,"87,225"
+673,1,113,4,7
+674,2,113,4,Nootroo
+675,3,113,4,Medical
+676,4,113,4,"San Francisco, California, United States"
+677,5,113,4,Nootroo is the gold standard in nootropics.
+678,6,113,4,"115,321"
+679,1,114,4,8
+680,2,114,4,Peak Nootropics
+681,3,114,4,"Neuroscience, Nutrition"
+682,4,114,4,"Fort Collins, Colorado, United States"
+683,5,114,4,Peak Nootropics will help you meet your cognitive goals. No need for illegal “smart drugs” or useless branded products.
+684,6,114,4,"121,377"
+685,1,115,4,9
+686,2,115,4,Modern AlkaMe
+687,3,115,4,"Health Care, mHealth, Neuroscience, Quantified Self"
+688,4,115,4,"Irvine, California, United States"
+689,5,115,4,"The Modern AlkaMe Consultation is an online evaluation that provides a personalized, comprehensive recommendation for nootropics."
+690,6,115,4,"130,376"
+691,1,116,4,10
+692,2,116,4,Thrivous
+693,3,116,4,"Biotechnology, Lifestyle, Nutraceutical, Personal Health, Wellness"
+694,4,116,4,"Orem, Utah, United States"
+695,5,116,4,Thrivous is the human enhancement company. Get nootropics and geroprotectors with the greatest potential to improve your brain and body.
+696,6,116,4,"161,643"
+697,1,117,4,11
+698,2,117,4,PlaceboProof
+699,3,117,4,—
+700,4,117,4,"New York, New York, United States"
+701,5,117,4,We help our customers find what Nootropics stack(s) work best for them.
+702,6,117,4,"172,283"
+703,1,118,4,12
+704,2,118,4,Pynely
+705,3,118,4,"Biotechnology, E-Commerce, Nutrition, Quantified Self"
+706,4,118,4,"Seattle, Washington, United States"
+707,5,118,4,Pynely is a nootropics and biohacking company focused on providing their customers with cognitive optimization.
+708,6,118,4,"187,312"
+709,1,119,4,13
+710,2,119,4,StackLife
+711,3,119,4,—
+712,4,119,4,"Oakland, California, United States"
+713,5,119,4,"Design and order fully customizable supplements (nootropics, health, sleep, bodybuilding)!"
+714,6,119,4,"204,992"
+715,1,120,4,14
+716,2,120,4,Sparq Tech Labs
+717,3,120,4,—
+718,4,120,4,—
+719,5,120,4,A nootropics startup aimed to biohack productivity
+720,6,120,4,"211,194"
+721,1,121,4,15
+722,2,121,4,Nootropics Revealed
+723,3,121,4,—
+724,4,121,4,—
+725,5,121,4,Nootropics Revealed is the ultimate resource on nootropic compounds.
+726,6,121,4,"228,853"
+727,1,122,4,16
+728,2,122,4,Nootrology
+729,3,122,4,"Dietary Supplements, Nutrition"
+730,4,122,4,—
+731,5,122,4,Nootrology brings you brain-boosting supplements that will transform the way you perform both cognitively and physically.
+732,6,122,4,"275,658"
+733,1,123,4,17
+734,2,123,4,Focal Point IQ
+735,3,123,4,—
+736,4,123,4,—
+737,5,123,4,The most reviewed nootropic of the year was discovered as Memotenz.
+738,6,123,4,"282,549"
+739,1,124,4,18
+740,2,124,4,Nootropic Resource
+741,3,124,4,—
+742,4,124,4,—
+743,5,124,4,Your #1 Resource for foundational human improvement through cognitive enhancing supplements
+744,6,124,4,"330,923"
+745,1,125,4,19
+746,2,125,4,Mooduprx
+747,3,125,4,Health Care
+748,4,125,4,—
+749,5,125,4,Nootropics and alertness promoters are becoming a day-to-day
+750,6,125,4,"340,931"
+751,1,126,4,20
+752,2,126,4,Go Shot
+753,3,126,4,—
+754,4,126,4,"Singapore, Central Region, Singapore"
+755,5,126,4,Nootropics Smart Drinks
+756,6,126,4,"464,792"
+757,1,127,4,21
+758,2,127,4,Nixest Medical
+759,3,127,4,—
+760,4,127,4,—
+761,5,127,4,Nixest provides unbiased product review of Nootropics and other supplements
+762,6,127,4,"500,556"
+763,1,128,4,22
+764,2,128,4,Bettten Aid
+765,3,128,4,Association
+766,4,128,4,—
+767,5,128,4,Bettten Aid provides users with extremly usefull information about the nootropics available for purchase
+768,6,128,4,"537,185"
+769,1,129,4,23
+770,2,129,4,Nootropunch
+771,3,129,4,—
+772,4,129,4,—
+773,5,129,4,"Nootropunch provides unbiased reviews, news, and research on smart drugs and nootropics."
+774,6,129,4,"547,217"
+775,1,130,5,1
+776,2,130,5,"Mercy Nutraceuticals, Inc."
+777,3,130,5,"Food and Beverage, Manufacturing, Nutrition"
+778,4,130,5,"New York, New York, United States"
+779,5,130,5,"Mercy is a beverage containing non-alcoholic, non-caffeinated antioxidants and vitamin supplements that restore glutathione in the body."
+780,6,130,5,"32,469"
+781,1,131,5,2
+782,2,131,5,Neurohacker Collective
+783,3,131,5,"Neuroscience, Personal Health"
+784,4,131,5,"Encinitas, California, United States"
+785,5,131,5,Collaborating on meaningful and sustainable upgrades to personal wellbeing.
+786,6,131,5,"69,890"
+787,1,132,5,3
+788,2,132,5,"NeuroGum, LLC"
+789,3,132,5,"Consumer Goods, E-Commerce, Lifestyle"
+790,4,132,5,"Los Angeles, California, United States"
+791,5,132,5,"NeuroGum is a confectionary company that creates products that enhance focus and cognition, all while giving you a fresh breath of energy."
+792,6,132,5,"87,225"
+793,1,133,5,4
+794,2,133,5,AZOTH LLC
+795,3,133,5,"Dietary Supplements, Fitness, Food and Beverage, Health Care, Personal Health"
+796,4,133,5,"Boston, Massachusetts, United States"
+797,5,133,5,Nootropic Vitamins/Supplements
+798,6,133,5,"114,147"
+799,1,134,5,5
+800,2,134,5,Peak Nootropics
+801,3,134,5,"Neuroscience, Nutrition"
+802,4,134,5,"Fort Collins, Colorado, United States"
+803,5,134,5,Peak Nootropics will help you meet your cognitive goals. No need for illegal “smart drugs” or useless branded products.
+804,6,134,5,"121,377"
+805,1,135,5,6
+806,2,135,5,Thrivous
+807,3,135,5,"Biotechnology, Lifestyle, Nutraceutical, Personal Health, Wellness"
+808,4,135,5,"Orem, Utah, United States"
+809,5,135,5,Thrivous is the human enhancement company. Get nootropics and geroprotectors with the greatest potential to improve your brain and body.
+810,6,135,5,"161,643"
+811,1,136,5,7
+812,2,136,5,Modafy - #1 Nootropic Brain Stack
+813,3,136,5,Health Care
+814,4,136,5,"Chatham, Medway, United Kingdom"
+815,5,136,5,"Modafy is a powerful nootropic supplement that enhances concentration, lifts mood, boosts productivity and keeps you focused during the day."
+816,6,136,5,"186,388"
+817,1,137,5,8
+818,2,137,5,Allysian Sciences
+819,3,137,5,Association
+820,4,137,5,—
+821,5,137,5,Mastermind™ Nootropic is Allysian’s flagship product.
+822,6,137,5,"188,332"
+823,1,138,5,9
+824,2,138,5,Plus IQ Points
+825,3,138,5,—
+826,4,138,5,—
+827,5,138,5,"Plus IQ Points is the best nootropic available. With normal fixings and clinically tried outcomes,https://healthhalt.com/plus-iq-points/"
+828,6,138,5,"219,883"
+829,1,139,5,10
+830,2,139,5,Nootropics Revealed
+831,3,139,5,—
+832,4,139,5,—
+833,5,139,5,Nootropics Revealed is the ultimate resource on nootropic compounds.
+834,6,139,5,"228,853"
+835,1,140,5,11
+836,2,140,5,Focal Point IQ
+837,3,140,5,—
+838,4,140,5,—
+839,5,140,5,The most reviewed nootropic of the year was discovered as Memotenz.
+840,6,140,5,"282,549"
+841,1,141,5,12
+842,2,141,5,Piracetol
+843,3,141,5,—
+844,4,141,5,—
+845,5,141,5,Piracetol The prescribed measurement for this nootropic is two cases each morning Click here http://dailyhealthview.com/piracetol/
+846,6,141,5,"308,480"
+847,1,142,5,13
+848,2,142,5,Smart Brands
+849,3,142,5,Retail
+850,4,142,5,"Indiana, United States, North America"
+851,5,142,5,Smart Brands produces nootropic energy drinks that cognitively enhances human performance.
+852,6,142,5,"318,071"
+853,1,143,5,14
+854,2,143,5,Noocube
+855,3,143,5,—
+856,4,143,5,—
+857,5,143,5,Noocube is claiming it's an ultimate nootropic that improves brain functions.
+858,6,143,5,"324,062"
+859,1,144,5,15
+860,2,144,5,Nootropic Resource
+861,3,144,5,—
+862,4,144,5,—
+863,5,144,5,Your #1 Resource for foundational human improvement through cognitive enhancing supplements
+864,6,144,5,"330,923"
+865,1,145,5,16
+866,2,145,5,Focus ZX1
+867,3,145,5,—
+868,4,145,5,—
+869,5,145,5,Focus ZX1 is a nootropic that can work for your general mind.https://healthhalt.com/focus-zx1/
+870,6,145,5,"362,481"
+871,1,146,5,17
+872,2,146,5,LumenIQ
+873,3,146,5,—
+874,4,146,5,"Bellingham, Washington, United States"
+875,5,146,5,"CogniFlex is a scientifically-proven limitless pill and as a natural nootropic, CogniFlex works with the body naturally."
+876,6,146,5,"434,794"
+877,1,147,5,18
+878,2,147,5,MOOD TROPICS
+879,3,147,5,—
+880,4,147,5,"Vaughn, Washington, United States"
+881,5,147,5,"Are searching for the optimal solutions or Mental Performance Supplements to Enhance Brain Function, then look no further than Mood Tropics."
+882,6,147,5,"578,839"
+883,1,148,5,19
+884,2,148,5,enhancemind1
+885,3,148,5,—
+886,4,148,5,—
+887,5,148,5,"Enhance Mind IQ -- If you need your memory to be lifted, no matter the age part, then right here is one best nootropic suggested."
+888,6,148,5,"585,506"
+889,1,149,6,1
+890,2,149,6,CognitiveScale
+891,3,149,6,"Artificial Intelligence, Big Data, Information Services, Information Technology, Machine Learning, Software"
+892,4,149,6,"Austin, Texas, United States"
+893,5,149,6,CognitiveScale provides industry-specific enterprise cognitive cloud software.
+894,6,149,6,"1,668"
+895,1,150,6,2
+896,2,150,6,Standard Cognition
+897,3,150,6,"Artificial Intelligence, Retail Technology, Software"
+898,4,150,6,"San Francisco, California, United States"
+899,5,150,6,Standard Cognition is an artificial intelligence platform that allows buyers to grab what they want without having to go to a cashier.
+900,6,150,6,"2,755"
+901,1,151,6,3
+902,2,151,6,Nexar
+903,3,151,6,"Apps, Internet, Transportation"
+904,4,151,6,"Tel Aviv, Tel Aviv, Israel"
+905,5,151,6,Nexar develops software to protect the user and their business against car crashes and road casualties.
+906,6,151,6,"3,576"
+907,1,152,6,4
+908,2,152,6,Civil Maps
+909,3,152,6,"Artificial Intelligence, Autonomous Vehicles, Robotics"
+910,4,152,6,"San Francisco, California, United States"
+911,5,152,6,Civil Maps provides a sensor-agnostic cognition platform that enables real-time mapping+localization and crowdsourcing.
+912,6,152,6,"3,902"
+913,1,153,6,5
+914,2,153,6,Kernel
+915,3,153,6,"Hardware, Intelligent Systems, Neuroscience, Software"
+916,4,153,6,"Los Angeles, California, United States"
+917,5,153,6,"Kernel is building advanced neural interfaces to treat disease, illuminate the mechanisms of intelligence, and extend cognition."
+918,6,153,6,"4,508"
+919,1,154,6,6
+920,2,154,6,IdeaFlow
+921,3,154,6,"Artificial Intelligence, B2B, SaaS"
+922,4,154,6,—
+923,5,154,6,A human-AI hybrid “shared brain” for organizations
+924,6,154,6,"7,095"
+925,1,155,6,7
+926,2,155,6,Cognition Therapeutics
+927,3,155,6,"Biotechnology, Life Science, Therapeutics"
+928,4,155,6,"Pittsburgh, Pennsylvania, United States"
+929,5,155,6,Cognition Therapeutics develops new therapeutics to treat patients suffering from Alzheimer’s disease and other neurodegenerative disorders.
+930,6,155,6,"10,749"
+931,1,156,6,8
+932,2,156,6,WorldViz
+933,3,156,6,"Enterprise Software, Virtual Reality"
+934,4,156,6,"Santa Barbara, California, United States"
+935,5,156,6,"WorldViz Virtual Reality solutions revolutionize how we interact with information, empowering businesses with new visualization techniques."
+936,6,156,6,"11,786"
+937,1,157,6,9
+938,2,157,6,Memorado
+939,3,157,6,"Health Care, Training, Wellness"
+940,4,157,6,"Berlin, Germany, Europe"
+941,5,157,6,Leading brain training platform with the mission to improve the mental well-being of everyone.
+942,6,157,6,"15,464"
+943,1,158,6,10
+944,2,158,6,Cognition IP
+945,3,158,6,"Advice, Information Services, Legal, Professional Services"
+946,4,158,6,"Palo Alto, California, United States"
+947,5,158,6,Cognition IP is a new-style law firm that helps clients more efficiently create and file patents and deal with other kinds of patent law.
+948,6,158,6,"16,652"
+949,1,159,6,11
+950,2,159,6,Help Lightning
+951,3,159,6,"Enterprise Software, Health Care, Virtual Reality"
+952,4,159,6,"Birmingham, Alabama, United States"
+953,5,159,6,The world's leading augmented reality video support solution.
+954,6,159,6,"21,568"
+955,1,160,6,12
+956,2,160,6,"Astral AR, LLC"
+957,3,160,6,"Aerospace, Augmented Reality, Drones, Electronics, Emerging Markets, GovTech, Humanitarian, Internet of Things"
+958,4,160,6,"Austin, Texas, United States"
+959,5,160,6,"World's most advanced drone piloting system. Legendary safety & speed, with telepresence."
+960,6,160,6,"21,967"
+961,1,161,6,13
+962,2,161,6,"Sovereign Intelligence, LLC"
+963,3,161,6,"Artificial Intelligence, Cyber Security, Internet"
+964,4,161,6,"Mclean, Virginia, United States"
+965,5,161,6,Computer Software: Deep Learning AI enriches dark web reconnaissance and enterprise data cognition
+966,6,161,6,"25,500"
+967,1,162,6,14
+968,2,162,6,MethylGene
+969,3,162,6,"Biopharma, Biotechnology, Clinical Trials"
+970,4,162,6,"Montréal, Quebec, Canada"
+971,5,162,6,MethylGene is a clinical-stage biopharmaceutical company focused on the development and commercialization of novel cancer therapeutics.
+972,6,162,6,"27,253"
+973,1,163,6,15
+974,2,163,6,C3DNA
+975,3,163,6,"Cloud Computing, Software"
+976,4,163,6,"Santa Clara, California, United States"
+977,5,163,6,"Deploy, Manage & Deliver Applications – Anywhere"
+978,6,163,6,"28,143"
+979,1,164,6,16
+980,2,164,6,EmSense
+981,3,164,6,"Hardware, Software, Video Games"
+982,4,164,6,"San Francisco, California, United States"
+983,5,164,6,EmSense provides scalable physiological and brainwave measurement technology.
+984,6,164,6,"30,219"
+985,1,165,6,17
+986,2,165,6,NeuroPlus
+987,3,165,6,Health Care
+988,4,165,6,"Durham, North Carolina, United States"
+989,5,165,6,Brain-sensing technology to improve cognition
+990,6,165,6,"32,225"
+991,1,166,6,18
+992,2,166,6,Cognition Technologies
+993,3,166,6,"Natural Language Processing, Neuroscience, Search Engine, Semantic Web, Software"
+994,4,166,6,"Culver City, California, United States"
+995,5,166,6,Cognition Technologies is a semantic search company developing natural language processing technologies for various types of devices.
+996,6,166,6,"34,208"
+997,1,167,6,19
+998,2,167,6,Treventis
+999,3,167,6,"Biotechnology, Health Diagnostics"
+1000,4,167,6,"Bryn Mawr, Pennsylvania, United States"
+1001,5,167,6,"Treventis discovers and develops drugs and diagnostics for diseases associated with protein misfolding, such as Alzheimer's and Parkinson's."
+1002,6,167,6,"34,610"
+1003,1,168,6,20
+1004,2,168,6,Applaud
+1005,3,168,6,"Enterprise Software, Information Services, Information Technology"
+1006,4,168,6,"Cincinnati, Ohio, United States"
+1007,5,168,6,"Applaud uses science, math and technology to help people have better lives through better memories."
+1008,6,168,6,"35,841"
+1009,1,169,6,21
+1010,2,169,6,Amgen Ventures
+1011,3,169,6,Biotechnology
+1012,4,169,6,"San Francisco, California, United States"
+1013,5,169,6,Amgen Ventures is a California-based investment firm focused on early- and late-stage biotechnology companies.
+1014,6,169,6,"36,537"
+1015,1,170,6,22
+1016,2,170,6,BrainCells
+1017,3,170,6,"Biotechnology, Health Care, Medical Device"
+1018,4,170,6,"San Diego, California, United States"
+1019,5,170,6,BrainCells is a biotechnology startup focused on drugs intended to stimulate the growth of new neurons.
+1020,6,170,6,"37,386"
+1021,1,171,6,23
+1022,2,171,6,NeuroCog Trials
+1023,3,171,6,"Biotechnology, Pharmaceutical, Therapeutics"
+1024,4,171,6,"Durham, North Carolina, United States"
+1025,5,171,6,NeuroCog Trials is the leading cognition services company for the pharmaceutical industry.
+1026,6,171,6,"39,688"
+1027,1,172,6,24
+1028,2,172,6,Galenea
+1029,3,172,6,"Biotechnology, Health Care, Therapeutics"
+1030,4,172,6,"Cambridge, Massachusetts, United States"
+1031,5,172,6,Galenea is engaged in developing therapeutics for central nervous system diseases.
+1032,6,172,6,"39,746"
+1033,1,173,6,25
+1034,2,173,6,Superplus
+1035,3,173,6,—
+1036,4,173,6,"Tromsø, Troms, Norway"
+1037,5,173,6,Superplus is a software company that develops mobile and tablet games for kids with development disabilites.
+1038,6,173,6,"41,155"
+1039,1,174,6,26
+1040,2,174,6,Quidient
+1041,3,174,6,Software
+1042,4,174,6,"Easton, Pennsylvania, United States"
+1043,5,174,6,Quidient is a privately held engineering firm that develops visual cognition solutions for commercial and government entities.
+1044,6,174,6,"43,346"
+1045,1,175,6,27
+1046,2,175,6,C8 Sciences
+1047,3,175,6,"Education, Knowledge Management, Neuroscience"
+1048,4,175,6,"New Haven, Connecticut, United States"
+1049,5,175,6,C8 Sciences develops neuroscience-based cognition assessment and development products for childhood education and the ageing population.
+1050,6,175,6,"44,803"
+1051,1,176,6,28
+1052,2,176,6,Nesplora
+1053,3,176,6,"Fitness, Personal Health, Wellness"
+1054,4,176,6,"Donostia-san Sebastián, Pais Vasco, Spain"
+1055,5,176,6,Nesplora analyzes human behavior using emerging technologies.
+1056,6,176,6,"47,535"
+1057,1,177,6,29
+1058,2,177,6,Scicasts
+1059,3,177,6,"Artificial Intelligence, Big Data, Business Intelligence, Data Mining"
+1060,4,177,6,"London, England, United Kingdom"
+1061,5,177,6,"Scicasts is a dynamic, cross-sector knowledge base that brings together the best of science, engineering and business from around the world."
+1062,6,177,6,"48,338"
+1063,1,178,6,30
+1064,2,178,6,Avalanche Strategy
+1065,3,178,6,"Government, Politics, Public Relations"
+1066,4,178,6,"Vancouver, British Columbia, Canada"
+1067,5,178,6,"Avalanche Strategy leverages the the science of human cognition to craft communications that resonate, activate, and win."
+1068,6,178,6,"49,462"
+1069,1,179,6,31
+1070,2,179,6,Helicon Therapeutics
+1071,3,179,6,"Biotechnology, Genetics, Neuroscience, Therapeutics"
+1072,4,179,6,"San Diego, California, United States"
+1073,5,179,6,Helicon Therapeutics discovers therapeutics to treat disorders of cognition through genetic basis of long-term memory formation.
+1074,6,179,6,"51,156"
+1075,1,180,6,32
+1076,2,180,6,AnaCatum
+1077,3,180,6,Software
+1078,4,180,6,"Linköping, Ostergotlands Lan, Sweden"
+1079,5,180,6,"AnaCatum Design provides analog and mixed-signal semiconductor IP subsystems for the communication, industrial, and consumer industries."
+1080,6,180,6,"52,212"
+1081,1,181,6,33
+1082,2,181,6,Truust Neuroimaging
+1083,3,181,6,Neuroscience
+1084,4,181,6,"San Francisco, California, United States"
+1085,5,181,6,Truust Neuroimaging have neuro-imaging products dramatically increase the resolution of existing and future neuro-imaging systems.
+1086,6,181,6,"54,243"
+1087,1,182,6,34
+1088,2,182,6,Cerespir
+1089,3,182,6,Pharmaceutical
+1090,4,182,6,"New York, New York, United States"
+1091,5,182,6,Harnessing the brain’s immune system to fight neurodegeneration.
+1092,6,182,6,"59,618"
+1093,1,183,6,35
+1094,2,183,6,Uhnder
+1095,3,183,6,"Apps, Internet of Things, Semiconductor"
+1096,4,183,6,"Austin, Texas, United States"
+1097,5,183,6,"Uhnder is a start-up developing disruptive products for sensing, cognition and communication."
+1098,6,183,6,"61,382"
+1099,1,184,6,36
+1100,2,184,6,blnqr
+1101,3,184,6,"EdTech, Neuroscience"
+1102,4,184,6,"Las Vegas, Nevada, United States"
+1103,5,184,6,Intuition-based learning
+1104,6,184,6,"61,406"
+1105,1,185,6,37
+1106,2,185,6,Cognition Health Partners
+1107,3,185,6,"Biotechnology, Medical, Pharmaceutical"
+1108,4,185,6,"Panama City Beach, Florida, United States"
+1109,5,185,6,Cognition Health Partners is a health services company helping healthcare facilities better manage their business outcomes.
+1110,6,185,6,"62,053"
+1111,1,186,6,38
+1112,2,186,6,Deep Cognition
+1113,3,186,6,—
+1114,4,186,6,"Irving, Texas, United States"
+1115,5,186,6,Deep Cognition's Deep Learning Studio allows building models without programming.
+1116,6,186,6,"67,751"
+1117,1,187,6,39
+1118,2,187,6,NERVteh
+1119,3,187,6,"Augmented Reality, Auto Insurance, Autonomous Vehicles, Big Data, Biometrics, Data Integration, Electronics, Insurance, Machine Learning, Robotics, Simulation, Virtual Reality"
+1120,4,187,6,"Slovenia, Europe"
+1121,5,187,6,"NERVteh is an R&D company specialized in simulations on biometric and cognitive driver evaluation, machine learning, and data integration."
+1122,6,187,6,"69,049"
+1123,1,188,6,40
+1124,2,188,6,Altoida
+1125,3,188,6,"Augmented Reality, Medical Device, mHealth"
+1126,4,188,6,"Luzern, Luzern, Switzerland"
+1127,5,188,6,Altoida Medical Device (AMD) provides health care professionals objective measurements of cognitive performance.
+1128,6,188,6,"71,872"
+1129,1,189,6,41
+1130,2,189,6,CogniVue
+1131,3,189,6,"Computer Vision, Hardware"
+1132,4,189,6,"Gatineau, Quebec, Canada"
+1133,5,189,6,"CogniVue enables embedded vision processing, delivering revolutionary vision processing IP and software"
+1134,6,189,6,"73,589"
+1135,1,190,6,42
+1136,2,190,6,Nerd Geek Lab
+1137,3,190,6,"Corporate Training, Education, Internet of Things"
+1138,4,190,6,"Delhi, Delhi, India"
+1139,5,190,6,NerdGeek Lab is collaborative mix&match of logic&process where a nerd is guided to build a horizon with out thinked cognition
+1140,6,190,6,"76,879"
+1141,1,191,6,43
+1142,2,191,6,Cognition Corporation
+1143,3,191,6,Software
+1144,4,191,6,"Lexington, Massachusetts, United States"
+1145,5,191,6,Product Development and Systems Engineering
+1146,6,191,6,"84,169"
+1147,1,192,6,44
+1148,2,192,6,Cogstate Ltd.
+1149,3,192,6,"Biotechnology, Clinical Trials, Training"
+1150,4,192,6,"New Haven, Connecticut, United States"
+1151,5,192,6,Cogstate is a multi-faceted cognitive assessment and training company
+1152,6,192,6,"86,777"
+1153,1,193,6,45
+1154,2,193,6,Amber Flux Pvt Ltd
+1155,3,193,6,—
+1156,4,193,6,—
+1157,5,193,6,"Amber Flux is an AI research & development organization. Have granted patents in USA in AI. Industrial energy management, IOT, telecom"
+1158,6,193,6,"87,177"
+1159,1,194,6,46
+1160,2,194,6,"NeuroGum, LLC"
+1161,3,194,6,"Consumer Goods, E-Commerce, Lifestyle"
+1162,4,194,6,"Los Angeles, California, United States"
+1163,5,194,6,"NeuroGum is a confectionary company that creates products that enhance focus and cognition, all while giving you a fresh breath of energy."
+1164,6,194,6,"87,225"
+1165,1,195,6,47
+1166,2,195,6,picalike GmbH
+1167,3,195,6,"Advertising, Image Recognition, SaaS, Software, Visual Search"
+1168,4,195,6,"Hamburg, Hamburg, Germany"
+1169,5,195,6,Picalike is one of the software as a service providers for visual technology empowering e-commerce.
+1170,6,195,6,"96,151"
+1171,1,196,6,48
+1172,2,196,6,Yowza
+1173,3,196,6,"Augmented Reality, Computer, Enterprise Software, Hardware, Information Technology, Software, Virtual Reality"
+1174,4,196,6,"Tel Aviv, Tel Aviv, Israel"
+1175,5,196,6,YOWZA ENABLES COMPUTERS TO UNDERSTAND THEIR ENVIRONMENT AND RESPOND TO IT.
+1176,6,196,6,"97,107"
+1177,1,197,6,49
+1178,2,197,6,Cambridge Cognition
+1179,3,197,6,—
+1180,4,197,6,—
+1181,5,197,6,"Cognitive assessment software for clinical trials, academic research and healthcare"
+1182,6,197,6,"99,399"
+1183,1,198,6,50
+1184,2,198,6,Shopping Quizzes
+1185,3,198,6,"Customer Service, E-Commerce, Internet, Retail, Retail Technology"
+1186,4,198,6,"Los Angeles, California, United States"
+1187,5,198,6,Shopping Quizzes helps website customers decide what to buy and dramatically boosts ecommerce conversion rates for online retailers.
+1188,6,198,6,"103,232"
